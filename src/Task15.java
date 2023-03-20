@@ -4,5 +4,6 @@ public class Task15 {
         System.out.println((12/4) != 3);
         System.out.println(12 % 4 != 0);
         System.out.println(3 != 4 || (2 + 3 > 5));
+        System.out.println(15 + 25 < 15 + 26);
     }
 }
